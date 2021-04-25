@@ -106,14 +106,11 @@ end
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
+<dt>Jiwoo Kim</dt>
 <dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Korea</dt>
+<dd>2006</dd>
+<dt>Korea</dt>
 </dl>
 
 ```
